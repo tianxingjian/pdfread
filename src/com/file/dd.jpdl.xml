@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<process name="dd" xmlns="http://jbpm.org/4.4/jpdl">
+   <start g="181,108,48,48" name="start1">
+      <transition g="126,139:-52,-22" name="to task1" to="task1"/>
+   </start>
+   <end g="117,302,48,48" name="end1"/>
+   <task assignee="baicai" g="99,191,59,49" name="task1">
+      <transition g="-50,-22" name="to end1" to="end1"/>
+   </task>
+</process>
