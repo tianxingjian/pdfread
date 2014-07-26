@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="D:/caonima/pdfread/lib/fontbox-1.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/caonima/pdfread/lib/pdfbox-1.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/caonima/pdfread/lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/caonima/pdfread/lib/bcprov-jdk16-146.jar"/>
+	<classpathentry kind="lib" path="D:/caonima/pdfread/lib/poi-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="D:/caonima/pdfread/lib/poi-ooxml-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="D:/caonima/pdfread/lib/poi-ooxml-schemas-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="D:/caonima/pdfread/lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/caonima/pdfread/lib/dom4j.jar"/>
+	<classpathentry kind="lib" path="D:/caonima/pdfread/lib/jms.jar"/>
+	<classpathentry kind="lib" path="D:/caonima/pdfread/lib/weblogic.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jbpm4"/>
+	<classpathentry kind="lib" path="lib/jsoup-1.7.3.jar"/>
+	<classpathentry kind="lib" path="lib/basic.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
